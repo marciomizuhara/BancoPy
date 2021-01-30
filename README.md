@@ -1,9 +1,9 @@
-#BancoPy - Sistema de gerenciamento bancário
+# BancoPy - Sistema de gerenciamento bancário
 
-###Introdução
+### Introdução
 O BancoPy é um mini-sistema de gerenciamento bancário que utiliza POO e executado pelo terminal.
 
-###Funções
+### Funções
 O sistema conta com 5 funções principais
 - Criar conta: possibilita a criação de uma conta bancária com os seguintes parâmetros: nome do cliente, 
 email do cliente,  CPF do cliente, data de nascimento do cliente. Em seguida, o sistema retorna os dados cadastrados.  
